@@ -1,3 +1,5 @@
 clone test
 
 conflict test
+
+conflict test 2
