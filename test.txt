@@ -5,3 +5,5 @@ conflict test
 conflict test 2
 
 push test
+
+conflict test 3
